@@ -1,0 +1,39 @@
+* Practical Astroinformatics
+** Abstract: 
+   From the dawn of its existence astronomy has been starving for data
+   but in the last few decades the situation has changed and now we
+   are facing data deluge of biblical proportions. The data are not
+   just increasing in size but also in complexity and dimensionality.
+   Astroinformatics is the new field of science which has emerged from
+   this technology driven progress. Virtual Observatory, Machine
+   Learning, Data Mining and Grid Computing are just few examples of
+   new tools available to scientists. This talk is an overview of the
+   main concepts, tools and methods behind astroinfomatics with the
+   emphasis on practical applications.
+
+** Prelude
+   motto: " The only way to keep away from computers in science is to
+   understand them ... "
+
+   "What is the Computer Literacy for an Scientist?"
+
+** Obtaining Data
+*** Virtual Observatory
+**** Protocols
+***** Cone Search Protocol
+***** Simple Image Access Protocol
+***** Simple Spectra Access Protocol
+**** Tools
+***** TopCat
+***** Aladin
+**** Formats
+***** FITs
+***** VOTable
+** Preprocessing
+*** Python
+*** Revision control
+**** Git
+** Data Analysis
+*** Pandas
+*** Scikit-learn
+
