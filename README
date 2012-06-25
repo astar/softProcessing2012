@@ -15,14 +15,33 @@
    motto: " The only way to keep away from computers in science is to
    understand them ... "
 
-   "What is the Computer Literacy for an Scientist?"
+   "What is the Computer Literacy for a Scientist?"
+
+** Motivation
+*** Warning: Pokud nesouhlasite, je to dobre
+**** Vetsina toho co "vim" nebo si myslim je spatne (predchozi zkusenost) -> rikat veci nahlas moznost zmeny
+**** Je dobre kdyz si lide mysli ruzne veci
+**** Velice rad menim nazory
+**** Veda = system pro zmenu nazoru (veda je lepsi nez vedci) 
+*** Predchozi zivot = informatik
+**** Radeji fyzika, ale soucasna veda zije v digitalnim svete, veda aplikovana informatika
+**** Zkusenost z CERNu, ze skoly
+*** Vedci chteji delat vedu ne CS
+**** Paradox: veda = aplikovana fyzika ale zadne vzdelavani
+**** Reseni (paradoxne) studovat CS, spoluprace
+**** Rouhani: znaost SQL muze byt uzitecnejsi nez integrovani forem 
+**** coursera.org
 
 ** Obtaining Data
+*** Sloan Digital Sky Survey
 *** Virtual Observatory
+    Hnuti za svobodny pristup k datum;-) Soubor protokolu, datovych formatu a umoznujici publikaci dat
+    Stoji na ramenech obru, podobnost s www. Programy v JAVA;-(
 **** Protocols
 ***** Cone Search Protocol
 ***** Simple Image Access Protocol
 ***** Simple Spectra Access Protocol
+***** Table Access Protocol
 **** Tools
 ***** TopCat
 ***** Aladin
@@ -31,8 +50,20 @@
 ***** VOTable
 ** Preprocessing
 *** Python
+    Soucasna veda NASA, neuroscience, Visual Effects (neni vyberovy efekt?)
+    Spustitelny pseudocode
+    Spousta knihoven numpy scipy, pandas
+    Pokusy (ipython)
+    Lepidlo
+    
 *** Revision control
+    Spoluprace, 
 **** Git
+     Distribuovany Vs Centralizovany
+     Temer vse lokalne => Rychlost, netreba pristup k serveru, bezpecnost
+     Vetveni 
+     Prirozenost
+     
 ** Data Analysis
 *** Pandas
 *** Scikit-learn
