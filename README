@@ -44,11 +44,7 @@
 ***** Table Access Protocol
 **** Tools
 ***** TopCat
-***** Aladin
-**** Formats
-***** FITs
-***** VOTable
-** Preprocessing
+
 *** Python
     Soucasna veda NASA, neuroscience, Visual Effects (neni vyberovy efekt?)
     Spustitelny pseudocode
@@ -63,8 +59,12 @@
      Temer vse lokalne => Rychlost, netreba pristup k serveru, bezpecnost
      Vetveni 
      Prirozenost
-     
+
+**** Formats
+***** FITs
+***** VOTable     
+
 ** Data Analysis
 *** Pandas
-*** Scikit-learn
+
 
